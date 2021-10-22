@@ -1,0 +1,16 @@
+{
+  "name": "sample-adr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/thinceller/sample-adr.git",
+  "author": "thinceller <thinceller@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "log4brains": "^1.0.0-beta.11"
+  },
+  "scripts": {
+    "create": "log4brains new adr",
+    "dev": "log4brains preview",
+    "build": "log4brains build"
+  }
+}

@@ -1,0 +1,5 @@
+project:
+  name: sample-adr
+  tz: Asia/Tokyo
+  adrFolder: ./docs/adr
+  packages: []
